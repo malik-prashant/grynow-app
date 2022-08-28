@@ -1,4 +1,4 @@
-# untitled
+# Grynow App
 
 A new Flutter project.
 
